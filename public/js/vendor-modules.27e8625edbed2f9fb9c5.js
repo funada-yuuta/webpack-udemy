@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[824],{1786:function(n,u,c){function e(n){return"Hello, ".concat(n,"!!")}c.d(u,{Q:function(){return e}})}}]);
